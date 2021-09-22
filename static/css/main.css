@@ -1,0 +1,153 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 637px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 46px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 515px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 18px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 900;
+  margin: 0 12px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px 0 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 48px;
+  width: 48px;
+  margin: 56px 12px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 6px 12px 0 auto;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 48px;
+  width: 48px;
+  margin: 30px 12px 0 auto;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px 12px 0 auto;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 515px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 400px;
+  margin: 1px -60px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 544px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 425px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 425px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 438px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1130px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 746px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-size: 3rem;
+  }
+}
